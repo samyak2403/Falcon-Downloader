@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- App's external files directory -->
+    <external-files-path
+        name="falcon_downloads"
+        path="Falcon Downloader" />
+    <external-files-path
+        name="external_files"
+        path="." />
+    
+    <!-- Public Movies directory -->
+    <external-path
+        name="movies"
+        path="Movies/Falcon Downloader" />
+    
+    <!-- Public Music directory -->
+    <external-path
+        name="music"
+        path="Music/Falcon Downloader" />
+    
+    <!-- Public Downloads directory -->
+    <external-path
+        name="downloads"
+        path="Download/Falcon Downloader" />
+    
+    <!-- Root external storage (fallback) -->
+    <external-path
+        name="external"
+        path="." />
+</paths>
